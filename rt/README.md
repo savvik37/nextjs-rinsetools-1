@@ -1,2 +1,1 @@
-# INTERSTELLAR LOGISTICS MANAGER 3000 (RINSETOOLS)
-A Next JS and Tailwind Practice Project.
+
